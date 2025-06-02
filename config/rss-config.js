@@ -60,17 +60,17 @@ export const config = {
     // },
     {
       name: "LINUX DO 今日热门",
-      url: "https://r4l.deno.dev/https://linux.do/top.rss?period=daily",
+      url: "https://linux.do/top.rss?period=daily",
       category: "论坛",
     },
     {
       name: "LINUX DO 近一周热门",
-      url: "https://r4l.deno.dev/https://linux.do/top.rss?period=weekly",
+      url: "https://linux.do/top.rss?period=weekly",
       category: "论坛",
     },
     {
       name: "LINUX DO 近一月热门",
-      url: "https://r4l.deno.dev/https://linux.do/top.rss?period=monthly",
+      url: "https://linux.do/top.rss?period=monthly",
       category: "论坛",
     },
     {
