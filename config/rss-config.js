@@ -83,6 +83,11 @@ export const config = {
       url: "https://rsshub.rssforever.com/bangumi.tv/anime/followrank",
       category: "番剧资讯",
     },
+    {
+      name: "V2EX",
+      url: "https://www.v2ex.com/index.xml",
+      category: "论坛",
+    }, 
   ],
   maxItemsPerFeed: 30,
   dataPath: "./data",
